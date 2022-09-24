@@ -1,2 +1,6 @@
-# payment_default_prediction
- Machine Learning to predict the possibility of customer default
+# Payment Defaul Prediction
+## Backgroud
+
+## Problem
+
+## EDA
