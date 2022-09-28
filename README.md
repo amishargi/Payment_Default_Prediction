@@ -33,10 +33,10 @@ Default Rate = Total Customer of Default / Total All Customer * 100%
 
 We create a business flow to make it easier to explain implement the model we created to achieve the goal. After implemented the model, we know who customer will potentially default next month and who non default. If model predict customer will default, we have recomendation that bank janata can do. We hope that the recommendations we provide can be achieved where the customer who is predicted to default will be no default.
 
-### Before Implemented
+### Before Implementation
 ![before treatment](https://user-images.githubusercontent.com/114277079/192738552-5cd717e7-5c06-4100-b822-20edda425b3b.png)
 
-### After Implemented
+### After Implementation
 ![after treatment](https://user-images.githubusercontent.com/114277079/192738759-1de24fa2-9936-42e1-8b3a-4914b684cf64.png)
 
 We recommend some actions to banks that can be used to lower their default ratio
