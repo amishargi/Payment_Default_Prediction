@@ -3,8 +3,8 @@
 
 Bank Janata Taiwan in 2005 had a problem that has 22.12% default rate. That 22.12% default rate is too high than the fair value of the default rate that should be.This will made Bank Janata more lose revenue if it is not handled properly. We have goal to decrease the default rate to under 15% and increase potential revenue up to 5% by:
 
--Predict whether customers will default or not next month using predictive modelling
--Analyze the factor that affect the increase in default rate
+- Predict whether customers will default or not next month using predictive modelling
+- Analyze the factor that affect the increase in default rate
 
 ## Business Metrics
 
