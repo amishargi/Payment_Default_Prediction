@@ -52,7 +52,7 @@ We assume that if the recommendations we provide are implemented then we can pot
 
 ![Default Rate Final](https://user-images.githubusercontent.com/114277079/193225937-09ea35d9-396f-4bce-ad5b-cee4b0034843.JPG)
 
-![Final Project - Floupin](https://user-images.githubusercontent.com/114277079/193232530-af239d05-1d95-46f2-aa07-9488e263793a.jpg)
+![final chart](https://user-images.githubusercontent.com/114277079/193395159-4a538dc9-4ad7-4455-8511-5d9f3525f406.png)
 
 ![Final Project - Floupin (1)](https://user-images.githubusercontent.com/114277079/193232586-9c99b9f8-aafa-45bc-834e-5f1407948a19.jpg)
 
