@@ -50,7 +50,8 @@ We suggest several steps banks can take to reduce their default ratio.
 
 We assume that if the recommendations we provide are implemented then we can potentialy decrease the default rate to 14% , potentialy increase Bank Revenue by 9%, and potentialy decrease loss by 33%
 
-![final chart](https://user-images.githubusercontent.com/114277079/193395159-4a538dc9-4ad7-4455-8511-5d9f3525f406.png)
+![final chart](https://user-images.githubusercontent.com/114277079/193454500-a4df05b6-ae66-4db8-a431-2859a5e15931.png)
+
 
 ![Final Project - Floupin](https://user-images.githubusercontent.com/114277079/193395258-80716d89-24dd-4a50-a7a7-38652b0ced8a.jpg)
 
