@@ -14,7 +14,7 @@ Default Rate = Total Customer of Default / Total All Customer * 100%
 
 ![Customer Overview](https://user-images.githubusercontent.com/114277079/193225412-5cfb0c5f-7db0-41a0-b6d3-a44928a80e01.JPG)
 The following conclusions were reached based on the EDA procedure that was conducted:
-1. The majority of defaulters are male consumers.
+1. The majority of customers default are male consumers.
 2. Customers who have graduated from high school and universities are more likely to default than others.
 3. Customers under the age of 25 are considered to be high-risk for defaulting.
 4. Customers from the low limit sector frequently default
